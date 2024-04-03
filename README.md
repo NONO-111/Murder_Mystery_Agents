@@ -15,6 +15,9 @@ gpt4-turbo
 ## 会話例(ネタバレ要注意!!)
 <details>
   <summary>表示する(ネタバレ要注意!!)</summary>
+  <div>
+    
   ![convesation_example](https://github.com/NONO-111/LLM-Based-Multi-Conversational-Agent/assets/148452872/0a79d3a1-d265-4b95-8fa2-1e797fa01bd0)
+  </div>
 </details>
 
