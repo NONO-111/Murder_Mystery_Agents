@@ -6,6 +6,8 @@ LLMベースエージェントを用いて多人数会話をシミュレーシ�
 ・使用した作品  
 タイトル:亡霊島殺人事件  
 URL:https://booth.pm/ja/items/1624107  
+・使用したモデル  
+gpt4-turbo  
 
 ## 使用技術一覧
 <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic"><img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic"><img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic"><img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic"><img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
